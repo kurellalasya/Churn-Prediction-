@@ -131,26 +131,6 @@ The selected model demonstrated strong generalization performance and effectivel
 
 ---
 
-## Visualizations
-
-### EDA Overview
-
-![EDA Overview](fig1_overview_eda.png)
-
-### Behavioral Analysis
-
-![Behavioral Analysis](fig2_behavioral_eda.png)
-
-### Correlation Heatmap
-
-![Correlation Heatmap](fig3_correlation.png)
-
-### Model Evaluation Dashboard
-
-![Model Evaluation](fig4_model_evaluation.png)
-
----
-
 ## Business Insights
 
 ### High-Risk Customer Segments
